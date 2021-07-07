@@ -2891,7 +2891,7 @@
       </Color>
       <Color Name="ReSharper C++ Enum Enumerator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFD19A66" />
       </Color>
       <Color Name="ReSharper C++ Static Field Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
