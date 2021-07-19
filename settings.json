@@ -1,0 +1,85 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.name.type.interface",
+                    "settings": {
+                        "foreground": "#94c96c",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "variable.other.constant",
+                    "settings": {
+                        "foreground": "#d89d59",
+                    }
+                },
+                {
+                    "scope": "variable.parameter",
+                    "settings": {
+                        "foreground": "#abb2bf",
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        },
+        "[Atom One Dark]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.name.type.interface",
+                    "settings": {
+                        "foreground": "#94c96c",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "variable.other.constant",
+                    "settings": {
+                        "foreground": "#d89d59",
+                    }
+                },
+                {
+                    "scope": "variable.parameter",
+                    "settings": {
+                        "foreground": "#abb2bf",
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        }
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize" : 4,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.renderWhitespace": "none",
+    "editor.detectIndentation": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    // extension wayou.vscode-todo-highlight
+    "todohighlight.isEnable": true,
+    "todohighlight.keywords": [
+        {
+            "text": "TODO:",
+            "color": "#21252B",
+            "backgroundColor": "#31FFF9",
+            "fontWeight": "bold"
+        }
+    ]
+}
