@@ -1,9 +1,9 @@
 <scheme name="One Dark Italic copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-07-19T22:25:28</property>
+    <property name="created">2021-07-19T22:38:17</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.2.2.0</property>
-    <property name="modified">2021-07-19T22:25:38</property>
+    <property name="modified">2021-07-19T22:38:24</property>
     <property name="originalScheme">One Dark Italic copy</property>
   </metaInfo>
   <colors>
@@ -345,6 +345,11 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -634,7 +639,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
