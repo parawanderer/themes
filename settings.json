@@ -13,7 +13,7 @@
                 {
                     "scope": "variable.other.constant",
                     "settings": {
-                        "foreground": "#d89d59",
+                        "foreground": "#d89d59"
                     }
                 },
                 {
