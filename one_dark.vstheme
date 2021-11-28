@@ -2705,7 +2705,7 @@
       </Color>
       <Color Name="ReSharper Todo Item Edit Marker on Error Stripe">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2AAFD4" />
+        <Foreground Type="CT_RAW" Source="FF00FFFF" />
       </Color>
       <Color Name="ReSharper Todo Item Error">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2716,20 +2716,20 @@
         <Foreground Type="CT_RAW" Source="FFED408E" />
       </Color>
       <Color Name="ReSharper Todo Item Normal">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2AAFD4" />
+        <Background Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="ReSharper Todo Item Normal Marker on Error Stripe">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2AAFD4" />
+        <Background Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="ReSharper Todo Item Question">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2AAFD4" />
+        <Background Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="ReSharper Todo Item Question Marker on Error Stripe">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF2AAFD4" />
+        <Background Type="CT_RAW" Source="FF00FFFF" />
+        <Foreground Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="ReSharper Todo Item Warning">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
